@@ -12,3 +12,9 @@ Pada program ini, pengguna diminta untuk memasukan nama, jabatan, kota tujuan, t
 
 1. FILE *f : menunjukan alamat file dengan format .txt
 2. *next   : menunjukan alamat dari komponen data yang terdapat pada data struktur
+
+# Implementasi Data Struktur
+
+1. struct akomodasi: berisi data yang akan diinput ke dalam file akomodasi .txt  
+2. struct transportasi: berisi data yang akan diinput ke dalam file transportasi .txt  
+
