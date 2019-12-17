@@ -40,7 +40,7 @@ Pada program ini, pengguna diminta untuk memasukan nama, jabatan, kota tujuan, t
 
 <img src="https://github.com/ailsyaffa/Penyusunan-Anggaran-Survey-Lapangan/blob/master/pics/ll4.png" width="400">
 
-3. Digunakan untuk menghapus input data struktur terakhir
+3. Digunakan untuk menghapus/cancel input data struktur terakhir
 
 <img src="https://github.com/ailsyaffa/Penyusunan-Anggaran-Survey-Lapangan/blob/master/pics/hapus.png" width="400">
 
