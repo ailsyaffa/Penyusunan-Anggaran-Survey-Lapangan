@@ -1,5 +1,7 @@
 Kelompok 15
+
 Ailsa Syaffa Dynia (1806199871)
+
 Anugrah Indah Lestari (1906324302)
 
 # Penyusunan Anggaran Survey Lapangan
@@ -8,13 +10,17 @@ Penyusunan anggaran survey lapangan terdiri dari item transportasi dan akomodasi
 
 Pada program ini, pengguna diminta untuk memasukan nama, jabatan, kota tujuan, tanggal keberangkatan, dan durasi perjalanan sehingga secara otomatis akan dihasilkan file dengan format .txt disertai jumlah biaya yang perlu dianggarkan berdasarkan perhitungan durasi perjalanan.
 
-# Implementasi Pointer
+## Implementasi Pointer
 
 1. FILE *f : menunjukan alamat file dengan format .txt
+
 2. *next   : menunjukan alamat dari komponen data yang terdapat pada data struktur
 
-# Implementasi Data Struktur
+## Implementasi Data Struktur
 
 1. struct akomodasi: berisi data yang akan diinput ke dalam file akomodasi .txt  
+
+<img src="https://github.com/ailsyaffa/Penyusunan-Anggaran-Survey-Lapangan/blob/master/pics/struktur1.png" width="400">
+
 2. struct transportasi: berisi data yang akan diinput ke dalam file transportasi .txt  
 
