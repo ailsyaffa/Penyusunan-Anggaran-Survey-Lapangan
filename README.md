@@ -1,5 +1,7 @@
 Kelompok 15
 
+Penyusunan Anggaran Survey Lapangan
+
 Ailsa Syaffa Dynia (1806199871)
 
 Anugrah Indah Lestari (1906324302)
@@ -37,6 +39,10 @@ Pada program ini, pengguna diminta untuk memasukan nama, jabatan, kota tujuan, t
 <img src="https://github.com/ailsyaffa/Penyusunan-Anggaran-Survey-Lapangan/blob/master/pics/ll3.png" width="400">
 
 <img src="https://github.com/ailsyaffa/Penyusunan-Anggaran-Survey-Lapangan/blob/master/pics/ll4.png" width="400">
+
+3. Digunakan untuk menghapus input data struktur terakhir
+
+<img src="https://github.com/ailsyaffa/Penyusunan-Anggaran-Survey-Lapangan/blob/master/pics/hapus.png" width="400">
 
 ## Implementasi Modular
 
