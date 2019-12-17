@@ -1,0 +1,8 @@
+
+AnugrahLestari	Penelti	22Desember	Mataram	5	3230000
+KhalifahAnisa	Peneliti	22Januari	Mataram	7	2995000
+AnnisaRaras	Perekayasa	22Maret	Tompaso	8	5102000
+tari	peneliti	22maret	aceh	5	4492000
+tari	peneliti	22des	aceh	5	4492000
+AnugrahLestari	Peneliti	21Desember	Aceh	5	4492000
+ilsa	pendata	22	desember	2019	10824000
