@@ -8,7 +8,7 @@ Penyusunan anggaran survey lapangan terdiri dari item transportasi dan akomodasi
 
 Pada program ini, pengguna diminta untuk memasukan nama, jabatan, kota tujuan, tanggal keberangkatan, dan durasi perjalanan sehingga secara otomatis akan dihasilkan file dengan format .txt disertai jumlah biaya yang perlu dianggarkan berdasarkan perhitungan durasi perjalanan.
 
-#Implementasi Pointer
+# Implementasi Pointer
 
-1. FILE **f : menunjukan alamat file dengan format .txt
-2. **next   : menunjukan alamat dari komponen data yang terdapat pada data struktur
+1. FILE * f : menunjukan alamat file dengan format .txt
+2. * next   : menunjukan alamat dari komponen data yang terdapat pada data struktur
