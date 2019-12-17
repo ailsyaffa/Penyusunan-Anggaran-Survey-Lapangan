@@ -10,5 +10,5 @@ Pada program ini, pengguna diminta untuk memasukan nama, jabatan, kota tujuan, t
 
 # Implementasi Pointer
 
-1. FILE * f : menunjukan alamat file dengan format .txt
-2. * next   : menunjukan alamat dari komponen data yang terdapat pada data struktur
+1. FILE *f : menunjukan alamat file dengan format .txt
+2. *next   : menunjukan alamat dari komponen data yang terdapat pada data struktur
